@@ -21,8 +21,12 @@ The YoloV3 weights trained on the COCO dataset
 ### <u>3. Create Analytical Density Plot :</u>
 - 2 Arrays (People Counter, Fire Counter) will be returned by the previous cell
 - In this Demonstration, 4 CCTV footage has already been analysed and stored in a .npy array
-<img src="IMG2.png" alt="drawing" width="600"/>
+<img src="IMG2.png" alt="drawing" width="500"/>
 - The Following Code will then output a graphical report of the detections:
-<img src="IMG3.png" alt="drawing" width="600"/>
+<img src="IMG3.png" alt="drawing" width="500"/>
 
 ### <u>4. Upload to IBM Cloud</u>
+- The following code retrieves images from IBM cloud
+- This code then runs the yolov3 model and outputs a labeled image
+- This labeled image is then uploaded back to IBM Cloud
+<img src="IMG4.png" alt="drawing" width="500"/>
