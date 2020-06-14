@@ -13,7 +13,7 @@ The YoloV3 weights trained on the COCO dataset
 ### <u>2. Run the Model on Input Video:</u>
 - Yolov3 Dependencies should be in the same folder as the notebook before running
 - The Following Line in the notebook will process videos ,
-![alt text](IMG1.png)
+<img src="IMG1.png" alt="drawing" width="200"/>
 - Drag your own video to be analysed to the same folder as this notebook (here its "cctv_4.mp4") under "video_path"
 - Set your output directory under "output_path"
 - Once the video has been processed, a labeled video should be created in the output path
@@ -21,8 +21,8 @@ The YoloV3 weights trained on the COCO dataset
 ### <u>3. Create Analytical Density Plot :</u>
 - 2 Arrays (People Counter, Fire Counter) will be returned by the previous cell
 - In this Demonstration, 4 CCTV footage has already been analysed and stored in a .npy array
-![alt text](IMG2.png)
+<img src="IMG2.png" alt="drawing" width="200"/>
 - The Following Code will then output a graphical report of the detections:
-![alt text](IMG3.png)
+<img src="IMG3.png" alt="drawing" width="200"/>
 
 ### <u>4. Upload to IBM Cloud</u>
