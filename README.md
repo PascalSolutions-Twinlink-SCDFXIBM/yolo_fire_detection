@@ -31,4 +31,4 @@ People Counter and Fire Detection using YOLOv3
 <img src="IMG4.png" alt="drawing" width="500"/>
 
 ### Note:
-- Technical limitations: This model can ideally run on ibm watson (.h5 file can be uploaded). However, there are many dependency issues that would need to be solved (Access to the weights, access to .py scripts that contains dependencies). For the purpose of this Competition, this algorithm will be run locally. Only IBM cloud is used for storage.
+- Technical limitations: This model can ideally run on ibm watson (.h5 file can be uploaded). However, there are many dependency issues that would need to be solved (tensorflow version mismatch, figuring out access to .py scripts that contains dependencies). For the purpose of this Competition, this algorithm will be run locally. Only IBM cloud is used for storage.
