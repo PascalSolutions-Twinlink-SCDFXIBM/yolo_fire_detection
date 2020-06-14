@@ -1,8 +1,7 @@
 # SCDFXIBM Fire Detection Algorithm
 People Counter and Fire Detection using YOLOv3
-![alt text](Prototype.png)
 <a href="https://drive.google.com/file/d/1kFbzqTiDxE5WLP9V36rQJeW2_UVv5XxN/view">
-    <img src="http://i3.ytimg.com/vi/eHnFF-SBNZ8/maxresdefault.jpg" alt="IBM Cloud">
+    <img src="Prototype.png)" alt="IBM Cloud">
     </a>
 # <u><center> Deployment </center></u>
 
