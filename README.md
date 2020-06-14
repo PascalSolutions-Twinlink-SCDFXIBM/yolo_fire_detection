@@ -1,7 +1,9 @@
 # SCDFXIBM Fire Detection Algorithm
 People Counter and Fire Detection using YOLOv3
 ![alt text](Prototype.png)
-[Fire Detection Demo](https://docs.google.com/document/d/1tqfmKDCythZHiI8NvH8uefT6QIfa2nIuNtXlXZm7ew4/edit?usp=sharing)
+<a href="https://drive.google.com/file/d/1kFbzqTiDxE5WLP9V36rQJeW2_UVv5XxN/view">
+    <img src="http://i3.ytimg.com/vi/eHnFF-SBNZ8/maxresdefault.jpg" alt="IBM Cloud">
+    </a>
 # <u><center> Deployment </center></u>
 
 ### <u>1. Download the weights to .\Data\Model_Weights</u>
