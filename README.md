@@ -3,8 +3,8 @@ People Counter and Fire Detection using YOLOv3
 
 ## <center> click below to watch a demo of this system </center>
 <a href="https://drive.google.com/file/d/1kFbzqTiDxE5WLP9V36rQJeW2_UVv5XxN/view">
-    <img src="Prototype.png" alt="IBM Cloud">
-    </a>
+    <img src="Prototype.png" alt="IBM Cloud"></a>
+    
 # <u><center> Deployment </center></u>
 
 ### <u>1. Download the weights to .\Data\Model_Weights</u>
