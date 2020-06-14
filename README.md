@@ -2,9 +2,8 @@
 People Counter and Fire Detection using YOLOv3
 ![alt text](Prototype.png)
 
-The YoloV3 weights trained on the COCO dataset
-
 # <u><center> HOW TO USE THIS </center></u>
+
 ### <u>1. First download the weights to .\Data\Model_Weights</u>
 - Download the weights here: https://entuedu-my.sharepoint.com/:u:/g/personal/lchan017_e_ntu_edu_sg/EWjUUTdPzrBGgxBtj-16wBEBu5hjpZWClFlpHW5wf7ptNw?e=FaBdFQ
 - This weights are retrained versions of the original YOLOv3 From: https://pjreddie.com/darknet/yolo/
@@ -30,3 +29,6 @@ The YoloV3 weights trained on the COCO dataset
 - This code then runs the yolov3 model and outputs a labeled image
 - This labeled image is then uploaded back to IBM Cloud
 <img src="IMG4.png" alt="drawing" width="500"/>
+
+### Note:
+- Technical limitations: This model can ideally run on ibm watson (.h5 file can be uploaded). However, there are many dependency issues that would need to be solved (Access to the weights, access to .py scripts that contains dependencies). For the purpose of this Competition, this algorithm will be run locally. Only IBM cloud is used for storage.
