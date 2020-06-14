@@ -12,3 +12,8 @@ The YoloV3 weights trained on the COCO dataset
 
 ### <u>2. Run the Notebook:</u>
 ####   - Yolov3 Dependencies should be in the same folder as the notebook before running
+####   - The Following Line in the notebook will process videos ,
+![alt text](IMG1.png)
+####   - Drag your own video to be analysed to the same folder as this notebook (here its "cctv_4.mp4") under "video_path"
+####   - Set your output directory under "output_path"
+####   - Once the video has been processed, a labeled video should be created in the output path
